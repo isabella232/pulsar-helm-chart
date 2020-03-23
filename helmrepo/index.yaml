@@ -3,7 +3,7 @@ entries:
   pulsar:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-03-01T17:09:29.088195687+11:00"
+    created: "2020-03-23T16:47:44.417933583+11:00"
     description: Apache Pulsar Helm chart for Kubernetes
     digest: 5641f5fae0a9462261fb9efe7b1492e8e53b245f65a0696d91cb4ff338e58d8f
     icon: https://kafkaesque.io/wp-content/uploads/2019/04/color_logo_with_background.svg
@@ -13,7 +13,7 @@ entries:
     version: 0.0.1-cedfedc5666f4f16ce10c6953e78a788fe984d09
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-03-01T17:09:29.082345486+11:00"
+    created: "2020-03-23T16:47:44.41428938+11:00"
     description: Apache Pulsar Helm chart for Kubernetes
     digest: 6c80d23131f1995a36ed5e2c6669d76ab928755a3c104cc39dafdcb911a04ba3
     icon: https://kafkaesque.io/wp-content/uploads/2019/04/color_logo_with_background.svg
@@ -21,4 +21,14 @@ entries:
     urls:
     - pulsar-0.0.1-adaebd0e77b11f3522f154672f426f90ed35f13e.tgz
     version: 0.0.1-adaebd0e77b11f3522f154672f426f90ed35f13e
-generated: "2020-03-01T17:09:29.077466476+11:00"
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-03-23T16:47:44.409376114+11:00"
+    description: Apache Pulsar Helm chart for Kubernetes
+    digest: 357ac254487c0fa9bd8cc2874e579c52dda1e849555aafefcce6eeac9600f119
+    icon: https://kafkaesque.io/wp-content/uploads/2019/04/color_logo_with_background.svg
+    name: pulsar
+    urls:
+    - pulsar-0.0.1-4c823475358810d64d5899b819292a35d5d4ea23.tgz
+    version: 0.0.1-4c823475358810d64d5899b819292a35d5d4ea23
+generated: "2020-03-23T16:47:44.405323689+11:00"
